@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dec99087-c902-4860-b600-2492a98fc732" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/keys.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/.generators" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/.idea/.generators" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/.idea/tinyurl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../tinyurl/.idea/tinyurl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/Rakefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/app/assets/config/manifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/app/assets/images/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/app/assets/javascripts/application.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/app/assets/javascripts/cable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/app/assets/javascripts/channels/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/app/assets/stylesheets/application.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/app/channels/application_cable/channel.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/app/channels/application_cable/connection.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/app/controllers/application_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/app/controllers/concerns/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/app/helpers/application_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/app/jobs/application_job.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/app/mailers/application_mailer.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/app/models/application_record.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/app/models/concerns/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/app/views/layouts/application.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/app/views/layouts/mailer.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/app/views/layouts/mailer.text.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/bin/bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/bin/rails" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/bin/rake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/bin/setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/bin/spring" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/bin/update" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config.ru" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/application.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/boot.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/cable.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/database.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/environment.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/environments/development.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/environments/production.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/environments/test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/initializers/application_controller_renderer.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/initializers/assets.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/initializers/backtrace_silencers.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/initializers/cookies_serializer.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/initializers/filter_parameter_logging.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/initializers/inflections.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/initializers/mime_types.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/initializers/new_framework_defaults.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/initializers/session_store.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/initializers/wrap_parameters.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/locales/en.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/puma.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/routes.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/secrets.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/config/spring.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/db/seeds.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/lib/assets/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/lib/tasks/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/log/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/public/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/public/422.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/public/500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/public/apple-touch-icon-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/public/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/test/controllers/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/test/fixtures/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/test/fixtures/files/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/test/helpers/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/test/integration/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/test/mailers/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/test/models/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/test/test_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/tmp/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/vendor/assets/javascripts/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinyurl/vendor/assets/stylesheets/.keep" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.3/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1k1nDmSsUZrgpe9fcOR1HZ3k4lE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

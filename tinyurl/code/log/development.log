@@ -25248,3 +25248,17 @@ Started POST "/api/shorty?url=twitter.com" for 127.0.0.1 at 2020-11-20 21:56:12 
 Started POST "/api/shorty?url=twitter.com" for 127.0.0.1 at 2020-11-20 21:56:12 -0800
 Started POST "/api/shorty?url=twitter.com" for 127.0.0.1 at 2020-11-20 21:56:12 -0800
 Started POST "/api/shorty?url=twitter.com" for 127.0.0.1 at 2020-11-20 21:56:12 -0800
+Started GET "/" for 127.0.0.1 at 2020-11-26 18:54:29 -0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /Library/Ruby/Gems/2.6.0/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Library/Ruby/Gems/2.6.0/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (3.6ms)
+Completed 200 OK in 17ms (Views: 8.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/shorty?key=379tdk8arWj" for 127.0.0.1 at 2020-11-26 18:54:45 -0800
+Started POST "/api/shorty?url=twitter.com" for 127.0.0.1 at 2020-11-26 18:54:48 -0800
+Started GET "/" for 127.0.0.1 at 2020-11-27 22:11:23 -0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Started GET "/?key" for 127.0.0.1 at 2020-11-27 22:11:28 -0800

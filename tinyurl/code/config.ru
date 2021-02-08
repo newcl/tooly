@@ -2,7 +2,7 @@
 
 require_relative 'config/environment'
 
-Shorty::API.compile!
+Url::API.compile!
 
 use Rack::Config do |env|
   # env['api.tilt.root'] = Rails.root.join('app', 'views')

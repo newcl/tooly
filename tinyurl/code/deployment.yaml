@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: tinyurl
+spec:
+  replicas: 4
+  selector:
+    matchLabels:
+      app: tinyurl
+  template:
+    metadata:
+      labels:
+        app: tinyurl
+    spec:
+      containers:
+        - name: tinyurl
+          image: newcl/tinyurl:latest
+          ports:
+            - containerPort: 3000

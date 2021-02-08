@@ -123,3 +123,13 @@ Generate keys offline and then distribute by app servers
 
 
 - Digest input url
+
+TinyService 
+- Manage key spaces 
+- Recycle keys
+- Reuest key ranges / keys from key service
+- Respond to customer requests to allocate key, write to storage 
+
+Storage 
+- Key -> {} storage 
+- Get list of available keys 

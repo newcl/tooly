@@ -1,18 +1,18 @@
 
 
-module Shorty
+module Url
   class API < Grape::API
     version 'v1', using: :header, vendor: 'chelan'
     content_type :json, 'application/json'
     format :json
-    prefix :api
+    # prefix :api
     default_format :json
     formatter :json, Grape::Formatter::Rabl
 
-    resource :shorty do
+    resource do
 
       before do
-        @redis = Redis.new(host: "127.0.0.1", port: 6379, db: 0)
+        # @redis = Redis.new(host: "127.0.0.1", port: 6379, db: 0)
       end
 
 
@@ -39,7 +39,8 @@ module Shorty
         requires :key, type: String, desc: 'short key'
       end
       get do
-        JSON.parse(@redis.get(params[:key]).to_s())
+        # JSON.parse(@redis.get(params[:key]).to_s())
+        {get: "yeah"}
       end
 
       desc 'Shorten URL'
@@ -47,14 +48,9 @@ module Shorty
         requires :url, type:String, desc: 'Original url'
       end
       post do
-        key = next_key
-        value = {
-            url: params[:url],
-            key: key,
-            ttl: (Time.now + 1.day).utc
-        }
-        @redis.set(key, JSON.dump(value))
-        value
+        new_key = next_key()
+        now = Time.now.utc
+        {key: new_key, url: params[:url], created_at: now, expire: now + 1.days}
       end
     end
   end
